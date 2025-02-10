@@ -832,7 +832,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Standalone: DISABLESTEAMWORKS;UNITY_GAMECORE
+    Standalone: DISABLESTEAMWORKS
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
